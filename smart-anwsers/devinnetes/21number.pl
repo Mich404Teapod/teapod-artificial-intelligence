@@ -22,3 +22,4 @@ while ($essai != $nb_mystere)
 }
 
 print "Gagné !";
+<>;
